@@ -114,7 +114,7 @@ function App() {
             Incorrect abbreviation 😔, Try a diffrent one.
           </p>
         )}
-        {showSuccessMsg && <p className="text-green-500 text-sm">في درج من أدراج يوسف (تريوم)راجع علبة</p>}
+        {showSuccessMsg && <p className="text-green-500 text-sm">راجع علبة (تريوم) في درج من أدراج يوسف</p>}
       </div>
     </div>
   );
